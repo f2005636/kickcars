@@ -1,0 +1,4 @@
+obs,195
+max_depth,2
+min_samples_leaf,2
+n_estimators,150
